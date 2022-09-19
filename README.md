@@ -3,7 +3,7 @@
 # Song Jeongmyeong
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdaud13580)](https://solved.ac/wjdaud13580/)
 
-### Languages
+### Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
