@@ -1,5 +1,3 @@
-<div align=center><h1>Hi 👋</h1></div>
-
 <div align=center><h1>Song Jeongmyeong</h1></div>
 
 <div align=center>
@@ -8,7 +6,7 @@
   <a>
 </div>
 
-<div align=center><h1>STACKS</h1></div>
+<div align=center><h3>STACKS</h3></div>
 
 <div align=center>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
